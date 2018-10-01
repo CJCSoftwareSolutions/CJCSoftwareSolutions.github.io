@@ -5,7 +5,7 @@
     <link>https://cjcsoftwaresolutions.co.uk/posts/</link>
     <description>Recent content in Posts on CJC Software Solutions Ltd.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
+    <language>en-us</language>
     <lastBuildDate>Mon, 01 Oct 2018 14:29:09 +0100</lastBuildDate>
     
 	<atom:link href="https://cjcsoftwaresolutions.co.uk/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +13,10 @@
     
     <item>
       <title>Site Revamp With Hugo</title>
-      <link>https://cjcsoftwaresolutions.co.uk/posts/hugo_revamp/</link>
+      <link>https://cjcsoftwaresolutions.co.uk/2018/hugo_revamp/</link>
       <pubDate>Mon, 01 Oct 2018 14:29:09 +0100</pubDate>
       
-      <guid>https://cjcsoftwaresolutions.co.uk/posts/hugo_revamp/</guid>
+      <guid>https://cjcsoftwaresolutions.co.uk/2018/hugo_revamp/</guid>
       <description>So I decided that Jekyll wasn&amp;rsquo;t right for CJC Software Solutions site. We arent a ruby development company, our use of the language is mostly within the realms of CyberSecurity.
 As Chris has a background in Golang, it seemed fitting that we use the Hugo site generation toolkit and the workflow for getting a site up and running has been great.
 The site is fast and responsive and works well on mobile devices too.</description>

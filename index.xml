@@ -1,25 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CJC Software Solutions Ltd.</title>
+    <title>CJC Software Solutions Ltd. on CJC Software Solutions Ltd.</title>
     <link>https://cjcsoftwaresolutions.co.uk/</link>
-    <description>Recent content on CJC Software Solutions Ltd.</description>
+    <description>Recent content in CJC Software Solutions Ltd. on CJC Software Solutions Ltd.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
+    <language>en-us</language>
     <lastBuildDate>Wed, 06 Jun 2018 03:00:53 +0600</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
-	<atom:link href="https://cjcsoftwaresolutions.co.uk/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>About Us</title>
+      <link>https://cjcsoftwaresolutions.co.uk/about/</link>
+      <pubDate>Mon, 01 Oct 2018 22:10:30 +0100</pubDate>
+      
+      <guid>https://cjcsoftwaresolutions.co.uk/about/</guid>
+      <description>
+
+&lt;p&gt;Cyber Security and Cloud Platform Engineering consultancy with experience across a wide range of technologies and sectors. Our experiences, interests and the projects which have undertaken have naturally led to the  progression into Cyber Security and Cloud Platform engineering to deliver robust, resilient and secure platforms for our clients.&lt;/p&gt;
+
+&lt;p&gt;We are always striving to stay current with the latest technologies, techniques and practices to deliver tailored solutions and high value to clients.&lt;/p&gt;
+
+&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ethical Hacking and Penetration Testing&lt;/li&gt;
+&lt;li&gt;Computer Forensics&lt;/li&gt;
+&lt;li&gt;Cyber Security Strategy&lt;/li&gt;
+&lt;li&gt;Vulnerability Assessment and Analysis&lt;/li&gt;
+&lt;li&gt;Secure Coding and Analytics&lt;/li&gt;
+&lt;li&gt;Identity and Access Management&lt;/li&gt;
+&lt;li&gt;Security Architecture and Operations&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;devops&#34;&gt;DevOps&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Containerisation&lt;/li&gt;
+&lt;li&gt;Configuration Management&lt;/li&gt;
+&lt;li&gt;Continuous Integration and Delivery&lt;/li&gt;
+&lt;li&gt;Automation&lt;/li&gt;
+&lt;li&gt;Cloud Architecture&lt;/li&gt;
+&lt;li&gt;Linux &amp;amp; Windows Administration&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;development&#34;&gt;Development&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Technical planning, Leadership and Mentoring&lt;/li&gt;
+&lt;li&gt;Agile Methodologies, Scrum, Kanban&lt;/li&gt;
+&lt;li&gt;Full Stack Development&lt;/li&gt;
+&lt;li&gt;Technical, Security and Solutions Architecture&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Site Revamp With Hugo</title>
-      <link>https://cjcsoftwaresolutions.co.uk/posts/hugo_revamp/</link>
+      <link>https://cjcsoftwaresolutions.co.uk/2018/hugo_revamp/</link>
       <pubDate>Mon, 01 Oct 2018 14:29:09 +0100</pubDate>
       
-      <guid>https://cjcsoftwaresolutions.co.uk/posts/hugo_revamp/</guid>
-      <description>So I decided that Jekyll wasn&amp;rsquo;t right for CJC Software Solutions site. We arent a ruby development company, our use of the language is mostly within the realms of CyberSecurity.
-As Chris has a background in Golang, it seemed fitting that we use the Hugo site generation toolkit and the workflow for getting a site up and running has been great.
-The site is fast and responsive and works well on mobile devices too.</description>
+      <guid>https://cjcsoftwaresolutions.co.uk/2018/hugo_revamp/</guid>
+      <description>&lt;p&gt;So I decided that Jekyll wasn&amp;rsquo;t right for CJC Software Solutions site. We arent a ruby development company, our use of the language is mostly within the realms of CyberSecurity.&lt;/p&gt;
+
+&lt;p&gt;As &lt;a href=&#34;https://www.linkedin.com/in/cjclarkson/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Chris&lt;/a&gt; has a background in Golang, it seemed fitting that we use the &lt;a href=&#34;https://gohugo.io&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; site generation toolkit and the workflow for getting a site up and running has been great.&lt;/p&gt;
+
+&lt;p&gt;The site is fast and responsive and works well on mobile devices too. If you are considering a revamp for your site, its a strong contender if you are in the market for a static generator and are looking for an alternative to Jekyll.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
