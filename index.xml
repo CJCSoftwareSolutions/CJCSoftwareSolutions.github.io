@@ -55,19 +55,5 @@
 </description>
     </item>
     
-    <item>
-      <title>Site Revamp With Hugo</title>
-      <link>https://cjcsoftwaresolutions.co.uk/2018/hugo_revamp/</link>
-      <pubDate>Mon, 01 Oct 2018 14:29:09 +0100</pubDate>
-      
-      <guid>https://cjcsoftwaresolutions.co.uk/2018/hugo_revamp/</guid>
-      <description>&lt;p&gt;So I decided that Jekyll wasn&amp;rsquo;t right for CJC Software Solutions site. We arent a ruby development company, our use of the language is mostly within the realms of CyberSecurity.&lt;/p&gt;
-
-&lt;p&gt;As &lt;a href=&#34;https://www.linkedin.com/in/cjclarkson/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Chris&lt;/a&gt; has a background in Golang, it seemed fitting that we use the &lt;a href=&#34;https://gohugo.io&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; site generation toolkit and the workflow for getting a site up and running has been great.&lt;/p&gt;
-
-&lt;p&gt;The site is fast and responsive and works well on mobile devices too. If you are considering a revamp for your site, its a strong contender if you are in the market for a static generator and are looking for an alternative to Jekyll.&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
